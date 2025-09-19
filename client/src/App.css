@@ -1,0 +1,10 @@
+/* Basic App styles */
+body {
+  margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  background: #fafbfc;
+}
+
+#root {
+  min-height: 100vh;
+}
